@@ -26,6 +26,7 @@
 ![Image](3.RunSomeCommands.png)
 - Now that you have successfully logged into the ieng6 server, let's try out from functions. 
 - The following screenshot is what it looks like when you have succefully called ls -lat functions. But you should try various functions (ex: cd ~, cd, ls <directory>...)
+- Note: Some of the functions will not have any output
 
 
 ## **Step 5**
