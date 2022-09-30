@@ -44,6 +44,10 @@
 ![Image](6.Optimizing.png)
 - The following screenshot is an output after quoting "ls" in the end of ssh command. 
 - The purpose of this function is to directly run the file on the remote server without having actaully copying file from local to remote. 
+  
+ ## **Conclusion**
+ Once you have completed through all the steps, your know should be able to log in and out and perhaps more in the ieng6 server. 
+
 
 
 
