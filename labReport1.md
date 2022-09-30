@@ -12,7 +12,7 @@
 
 ## **Step 2**
 ![Image](1.VScode.png)
-- The second step is to download Visual Studio Code 
+- The second step is to download [Visual Studio](https://visualstudio.microsoft.com/downloads/).
 - Visual studio allows you to use their terminal to access ieng6 but local terminal from your pc will still work. 
 
 ## **Step 3**
