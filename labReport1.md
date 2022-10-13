@@ -19,7 +19,7 @@
 ![Image](2.remoteConnecting.png)
 - The following picture is what your output should look like after you have sucessfully logged into the server.
 - When you terminal is open from visual studio, you will first need to log into the ieng6 server. To do so, you will need type your username you got from **step 1** and password (which you resetted from the start) or currently your triton link password. 
-![Image](step3 logging in.png)
+![Image](step3.png)
 - However, there is chance that you will need to use your ucsd email 
 (ex: ******@ieng6.ucsd.edu) to log into the server if your new password has not been updated in next 20 mins.
 
