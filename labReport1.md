@@ -26,12 +26,10 @@
 
 ## **Step 4. Using Commands**
 ![Image](3.RunSomeCommands.png)
-![Image](step4.png)
+
 - Now that you have successfully logged into the ieng6 server, let's try out from functions. 
 - The following screenshot is what it looks like when you have succefully called ls -lat functions. But you should try various functions (ex: cd ~, cd, ls <directory>...)
-
-![image](step4 screenshot of commands.png)
-
+![Image](step4.png)
 - 1. **cd** - change directory
 - 2. **ls** - listing files from current directory
 - 3. **pwd** - print working directory
