@@ -56,7 +56,7 @@
 
 
 ## **Step 6. Setting up SSH key**
-![Image](5.SSH%20key.png
+![Image](5.SSH%20key.png)
 ![Image](step 6.png)
 =======
 ![Image](step6.png)
