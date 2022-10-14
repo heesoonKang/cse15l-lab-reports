@@ -59,13 +59,13 @@ class SearchEngine {
 
 ## **Screenshot of using SearchEngine.java** ##
 
-- 1. **Defualt page**
+- 1. ## **Defualt page**
 
 ![Image](sc1.png)
 
 The following output is coming from method handleRequest where it's a default value has been returned if theres no instruction of "add?s=". The method handleRequest has four different arguments where it checks if whether url path contains "/add", "/search", or other different inputs. If the input of url changes, then the output of the website would have been different
 
-- 2. **Adding / Searching an element**
+- 2. ## **Adding / Searching an element**
 
 ![Image](sc2.png)
 
@@ -75,12 +75,12 @@ The following output is coming from method handleRequest where it's a default va
 
 The following outputs are also coming from handleRequest method where it checks if url contains "/add", "s" and "=". If so, we would save the string value and save it to the arraylist called save. Once the string has been added to the save arraylist, then it prints out by toString method to output "User's search element" + "save". 
 
-- 3. **Query ( Outputs elements that I searched)**
+- 3. ## **Query ( Outputs elements that I searched)**
 
 ![Image](output.png)
 
 The following outputs are from handleRequest method where this time, it checks if url contains "/search" and "=" in the URL. One if statement that checks if URL contains "/search" and "=" then it iterates through for loop to add all the saved items to Arraylist called searched. Then it once again uses toString method from arraylist to print out above output.
-- 4. **Wrong input**
+- 4. ## **Wrong input**
 
 ![Image](sc5.png)
 
