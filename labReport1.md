@@ -35,7 +35,6 @@
 <<<<<<< HEAD
 ![image](step4 screenshot of commands.png)
 =======
->>>>>>> 60cdec6f083fdfbc8ba13c3f73de8bf2caae1790
 - 1. **cd** - change directory
 - 2. **ls** - listing files from current directory
 - 3. **pwd** - print working directory
@@ -50,17 +49,16 @@
 =======
 ![Image](step5.png)
 
->>>>>>> 60cdec6f083fdfbc8ba13c3f73de8bf2caae1790
 - Now that you tried some functions, lets move files over SSH with scp. This is another way of copying file from local computer to remote computer. 
 - The above screenshot is just an example of accessing file from the terminal. 
 
 
 ## **Step 6. Setting up SSH key**
 ![Image](5.SSH%20key.png)
-![Image](step 6.png)
+![Image](step6.png)
 =======
 ![Image](step6.png)
->>>>>>> 60cdec6f083fdfbc8ba13c3f73de8bf2caae1790
+
 - The following screenshot is output after you have operated SSH key by calling ssh-keygen function. The function of this operation is to create both public and priate key.
 
 - After following step, you will need to give defualt path to your id_rsa file. Then store them into the .ssh file which will allow the user to log back into the ieng6 server without actually entering password.
