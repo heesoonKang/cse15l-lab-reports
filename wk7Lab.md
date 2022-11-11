@@ -1,7 +1,13 @@
-## **find command-line options** ##
+## **Week 7 Lab Report** ##
 
+##** Part 1 Sequence of keys to change "10" to "1391" in getFile() of TestDocSearch.java **## 
 
-The command -empty searches for empty files and directories. This commands finds all empty folders and files in the entered directory or sub-directories. The above image is example of when trying -empty function in the technical directory where shows there is no empty file 
+1. First, log into your ssh account.
+2. Next, git clone week-6-skill-demo1 from github. 
+<pre><code>  git clone https://github.com/ucsd-cse15l-f22/skill-demo1 week6-skill-demo1
+</code></pre> 
+3. Cd week6-skill-demo to change directory to demo files.
+4. Vim TestDocSearch.java to edit java file.
 
 
 
