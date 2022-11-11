@@ -6,16 +6,14 @@
 2. Next, git clone week-6-skill-demo1 from github. 
 <pre><code>  git clone https://github.com/ucsd-cse15l-f22/skill-demo1 week6-skill-demo1
 </code></pre> 
-3. Cd week6-skill-demo to change directory to demo files.
-4. Vim TestDocSearch.java to edit java file.
-5. Use J and L move cursor commands to get to Line 14.
-6. Use D and E commands to delete "10".
-7. Press "i" to enter the insert mode .
+3. `cd` week6-skill-demo to change directory to demo files.
+4. `Vim` TestDocSearch.java to edit java file.
+5. Use `J` and `L` move cursor commands to get to Line 14.
+6. Use `D` and `E` commands to delete "10".
+7. Press `I` to enter the insert mode .
 8. Type in "1391".
-9. Press ESC to go to Normal Mode.
-10. Shift + ;wq to save and exit.
-
-
+9. Press `ESC` to go to Normal Mode.
+10. `Shift + ;wq` to save and exit.
 
 
 The above image is example of trying -empty when there exists a empty function. I have created one as a example: 
