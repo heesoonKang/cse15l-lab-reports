@@ -16,6 +16,7 @@
 * Press `ESC` to go to Normal Mode.
 * `Shift + ;wq` to save and exit.
 
+**Output**
 Now, the "10" in TestDocSearch.java is replaced with 1391 and will fixed the error on the Junit test.
 
 
