@@ -71,9 +71,6 @@ The above example is when there exists no same name files that I want to delete 
 
 ## **3. -type command** ##
 
-<pre><code>  find . -type
-</code></pre> 
-
 
 <pre><code>  find . -type d
 </code></pre> 
