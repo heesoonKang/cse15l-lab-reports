@@ -8,6 +8,12 @@
 </code></pre> 
 3. Cd week6-skill-demo to change directory to demo files.
 4. Vim TestDocSearch.java to edit java file.
+5. Use J and L move cursor commands to get to Line 14.
+6. Use D and E commands to delete "10".
+7. Press "i" to enter the insert mode .
+8. Type in "1391".
+9. Press ESC to go to Normal Mode.
+10. Shift + ;wq to save and exit.
 
 
 
