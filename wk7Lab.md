@@ -22,7 +22,7 @@ Now, the "10" in TestDocSearch.java is replaced with 1391 and will fixed the err
 
 ## **Part 2 Questions** ##
 
-**Q1) Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why? **
+**Q1) Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?**
 
 If I had to work on a program that i was running remotely, it would be based on type and amount of files that I need to copy over to the remote server. For example, if it was files with size and memeory not as big for me to edit it on the IDE like VS code, then I would edit it on IDE since that is more familiar and easier for me. However, if the size of the files so big that either takes forever to copy over or i would not have enough memory to take in all files, then I would use vim to edit the remote server.
 
