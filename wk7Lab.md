@@ -1,23 +1,24 @@
 ## **Week 7 Lab Report** ##
 
-##** Part 1 Sequence of keys to change "10" to "1391" in TestDocSearch.java **## 
+##** Part 1 Sequence of keys to change start to base in DocSearchServer.java
 
-1. First, log into your ssh account.
-2. Next, git clone week-6-skill-demo1 from github. 
-<pre><code>  git clone https://github.com/ucsd-cse15l-f22/skill-demo1 week6-skill-demo1
-</code></pre> 
-3. `cd` week6-skill-demo to change directory to demo files.
-4. `Vim` TestDocSearch.java to edit java file.
-**Key Sequence**
-* Use `J` and `L` move cursor commands to get to "10" in Line 14.
-* Use `D` and `E` commands to delete "10".
-* Press `I` to enter the insert mode .
-* Type in "1391".
-* Press `ESC` to go to Normal Mode.
-* `Shift + ;wq` to save and exit.
+1. First, open the terminal and type vim DocSearchServer.java
+2. The above command will allow us to edit the DocSearchServer.java file.
+3. Next, git clone week-6-skill-demo1 from github.   
+
+
+`/start<Enter>cebase<Esc>ncebase<Esc>ncebase<Esc>:wq`
+- '/start<Enter>' This part of key sequence will search for the first instance of file and get on the code.
+- 'ce' The code ce will delete the word start and edit insert mode.
+- 'base' The code base needs to be typed since we are already in the insert mode.
+- 'Esc' The code will exit from the insert mode
+- 'n' This code will jump to the next instance of start.
+- 'cebase<Esc>' This part of code will replace start with word base. Repeat this process until all start lines are change
+  to the base.
+
 
 **Output**
-Now, the "10" in TestDocSearch.java is replaced with 1391 and will fixed the error on the Junit test.
+After this sequences of keys, we will have all of start changed to the base.
 
 
 ## **Part 2 Questions** ##
